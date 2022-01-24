@@ -1,99 +1,99 @@
 Rank,IXP
-1,"DE-CIX Frankfurt"
-2,"AMS-IX"
-3,"France-IX Paris"
-4,"Equinix Paris"
-5,"Hopus"
-6,"LINX LON1"
-7,"Equinix Singapore"
-8,"Netnod Stockholm BLUE -- MTU1500"
-9,"Netnod Stockholm GREEN -- MTU1500"
-10,"VIX"
-11,"SwissIX"
-12,"DE-CIX New York"
-13,"NL-ix"
-14,"DE-CIX Hamburg"
-15,"Netnod Stockholm BLUE -- MTU4470"
-16,"Netnod Stockholm GREEN -- MTU4470"
-17,"NIX1"
-18,"Equinix Ashburn"
-19,"ECIX-FRA"
-20,"Peering.cz"
-21,"STHIX - Stockholm"
-22,"SIX Seattle"
-23,"SGIX"
-24,"KleyReX"
-25,"HKIX"
-26,"NYIIX"
-27,"Equinix Frankfurt"
-28,"IX.br (PTT.br) São Paulo"
-29,"Equinix Miami"
-30,"Equinix Chicago"
-31,"LINX LON2"
-32,"DE-CIX Dusseldorf"
-33,"DE-CIX Munich"
-34,"France-IX Marseille"
-35,"DATAIX"
-36,"DE-CIX Madrid"
-37,"ECIX-HAM"
-38,"Equinix San Jose"
-39,"Equinix Hong Kong"
-40,"Any2West"
-41,"Digital Realty Atlanta"
-42,"BBIX Tokyo"
-43,"Equinix London"
-44,"NIX.CZ"
-45,"TorIX"
-46,"MIX-IT"
-47,"Global-IX"
-48,"BiX"
-49,"DE-CIX Dallas"
-50,"Equinix Stockholm"
-51,"TPIX-TW"
-52,"MSK-IX Moscow"
-53,"QIX"
-54,"Equinix New York"
-55,"ECIX-MUC"
-56,"BCIX"
-57,"ECIX-DUS"
-58,"Netnod Copenhagen BLUE -- MTU9K"
-59,"Netnod Copenhagen GREEN -- MTU9K"
-60,"FIXO"
-61,"Equinix Warsaw"
-62,"LU-CIX"
-63,"MegaIX Ashburn"
-64,"MyIX"
-65,"UAE-IX"
-66,"IX.br (PTT.br) Rio de Janeiro"
-67,"Equinix Dallas"
-68,"SOX"
-69,"Equinix Atlanta"
-70,"EdgeIX - Sydney"
-71,"STHIX - Copenhagen"
-72,"DE-CIX Marseille"
-73,"Equinix Palo Alto"
-74,"Manama IX"
-75,"SIX.SK"
-76,"Equinix São Paulo"
-77,"IX.br (PTT.br) Fortaleza"
-78,"GigaPIX - LAN 1"
-79,"BNIX"
-80,"DIX"
-81,"ESPANIX Madrid Lower LAN"
-82,"INEX LAN1"
-83,"MGMix Montgomery"
-84,"SNAP"
-85,"DO-IX"
-86,"THINX Warsaw"
-87,"MICE"
-88,"Phoenix-IX"
-89,"CIX-ATL"
-90,"LONAP"
-91,"BBIX Singapore"
-92,"Equinix Tokyo"
-93,"Speed-IX"
-94,"MidWest-IX - St. Louis"
-95,"PITER-IX St. Petersburg"
-96,"STHIX - Gothenburg"
-97,"NIX.SK"
-98,"Digital Realty New York"
+1,DE-CIX Frankfurt
+2,AMS-IX
+3,France-IX Paris
+4,Equinix Paris
+5,Hopus
+6,LINX LON1
+7,Equinix Stockholm
+8,Netnod Stockholm BLUE -- MTU1500
+9,Netnod Stockholm GREEN -- MTU1500
+10,VIX
+11,SwissIX
+12,DE-CIX New York
+13,NL-ix
+14,DE-CIX Hamburg
+15,Netnod Stockholm BLUE -- MTU4470
+16,Netnod Stockholm GREEN -- MTU4470
+17,NIX1
+18,Equinix Ashburn
+19,ECIX-FRA
+20,Peering.cz
+21,STHIX - Stockholm
+22,SIX Seattle
+23,SGIX
+24,KleyReX
+25,HKIX
+26,NYIIX
+27,Equinix Frankfurt
+28,IX.br (PTT.br) São Paulo
+29,Equinix Miami
+30,Equinix Chicago
+31,LINX LON2
+32,DE-CIX Dusseldorf
+33,DE-CIX Munich
+34,France-IX Marseille
+35,DATAIX
+36,DE-CIX Madrid
+37,ECIX-HAM
+38,Equinix San Jose
+39,Equinix Hong Kong
+40,Any2West
+41,Digital Realty Atlanta
+42,BBIX Tokyo
+43,Equinix London
+44,NIX.CZ
+45,TorIX
+46,MIX-IT
+47,Global-IX
+48,BiX
+49,DE-CIX Dallas
+50,Equinix Stockholm
+51,TPIX-TW
+52,MSK-IX Moscow
+53,QIX
+54,Equinix New York
+55,ECIX-MUC
+56,BCIX
+57,ECIX-DUS
+58,Netnod Copenhagen BLUE -- MTU9K
+59,Netnod Copenhagen GREEN -- MTU9K
+60,FIXO
+61,Equinix Warsaw
+62,LU-CIX
+63,MegaIX Ashburn
+64,MyIX
+65,UAE-IX
+66,IX.br (PTT.br) Rio de Janeiro
+67,Equinix Dallas
+68,SOX
+69,Equinix Atlanta
+70,EdgeIX - Sydney
+71,STHIX - Copenhagen
+72,DE-CIX Marseille
+73,Equinix Palo Alto
+74,Manama IX
+75,SIX.SK
+76,Equinix São Paulo
+77,IX.br (PTT.br) Fortaleza
+78,GigaPIX - LAN 1
+79,BNIX
+80,DIX
+81,ESPANIX Madrid Lower LAN
+82,INEX LAN1
+83,MGMix Montgomery
+84,SNAP
+85,DO-IX
+86,THINX Warsaw
+87,MICE
+88,Phoenix-IX
+89,CIX-ATL
+90,LONAP
+91,BBIX Singapore
+92,Equinix Tokyo
+93,Speed-IX
+94,MidWest-IX - St. Louis
+95,PITER-IX St. Petersburg
+96,STHIX - Gothenburg
+97,NIX.SK
+98,Digital Realty New York
