@@ -99,7 +99,7 @@ $ python code/route_decision_model/buildtrain2.py
 
 **Training the route decision model**
 
-the details is in code\route_decision_model\LambdaMart\README.md
+the details are in 'code\route_decision_model\LambdaMart\README.md'
 
 ## Analysis result
 
