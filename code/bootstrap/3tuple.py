@@ -1,5 +1,5 @@
 import json
-from tqdm import tqdm
+
 graph = {}
 
 ASReFile = open("infer_rel/asrel.txt","r")
